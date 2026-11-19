@@ -1,0 +1,10 @@
+thresholds:
+  accept_min_score: 80.0
+  review_min_score: 50.0
+  pde_tolerance: 0.05
+  energy_tolerance: 0.10
+  ood_distance_threshold: 1.5
+weights:
+  pde_penalty: 350.0
+  energy_penalty: 80.0
+  ood_penalty: 35.0

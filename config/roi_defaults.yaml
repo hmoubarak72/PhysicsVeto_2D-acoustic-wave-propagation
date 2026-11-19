@@ -1,0 +1,7 @@
+defaults:
+  simulations_per_year: 50000
+  solver_core_hours: 4.0
+  cloud_cost_per_core_hour: 0.08
+  surrogate_speedup: 240.0
+  measured_veto_rate: 0.12
+  engineer_hourly_cost: 120.0
